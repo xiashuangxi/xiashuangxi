@@ -7,10 +7,10 @@
 
 ## 统计信息
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xiashuangxi/xiashuangxi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&langs_count=3" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/xiashuangxi/xiashuangxi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi" />
 </a>
 
