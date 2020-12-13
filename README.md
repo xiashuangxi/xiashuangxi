@@ -1,4 +1,4 @@
-# Hi, 你好，我是Xia Shuangxi 👋
+# Hi，我是Xia Shuangxi 👋
 
 [![Linkedin Badge](https://img.shields.io/static/v1?&logo=LinkedIn&label=LinkedIn&message=xiashuangxi&color=0077B5&style=flat-square&link=https://www.linkedin.com/in/xiashuangxi/)](https://www.linkedin.com/in/xiashuangxi/)
 [![Hotmail Badge](https://img.shields.io/static/v1?&logo=Microsoft%20Outlook&label=Email&message=xiashuangxi&color=0078D4&style=flat-square&link=mailto:xiashuangxi@hotmail.com)](mailto:xiashuangxi@hotmail.com)
