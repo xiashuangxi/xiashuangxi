@@ -20,13 +20,10 @@
 ## 统计信息
 
 <a href="https://github.com/xiashuangxi/xiashuangxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&layout=compact&langs_count=10&hide_border=true" />
 </a>
 <a href="https://github.com/xiashuangxi/xiashuangxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi" />
-</a>
-<a href="https://github.com/xiashuangxi/xiashuangxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xiashuangxi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi&layout = compact&hide_border=true" />
 </a>
 
 
