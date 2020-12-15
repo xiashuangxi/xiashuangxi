@@ -20,11 +20,16 @@
 ## 统计信息
 
 <a href="https://github.com/xiashuangxi/xiashuangxi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/xiashuangxi/xiashuangxi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi" />
 </a>
+<a href="https://github.com/xiashuangxi/xiashuangxi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xiashuangxi" />
+</a>
+
+
 
 <!--
 **xiashuangxi/xiashuangxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
