@@ -13,3 +13,16 @@
 
  * [Linkedin](https://www.linkedin.com/in/xiashuangxi/)
  * [Hotmail](mailto:xiashuangxi@hotmail.com) ✉️
+
+<details>
+  <summary>统计数据</summary>
+  <a href="https://github.com/xiashuangxi/xiashuangxi">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashuangxi&layout=compact&langs_count=10&hide_border=true" />
+  </a>
+  <a href="https://github.com/xiashuangxi/xiashuangxi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi&layout=compact&hide_border=true" />
+  </a>
+  <a href="https://github.com/xiashuangxi/xiashuangxi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xiashuangxi&layout=compact&hide_border=true" />
+  </a>
+</details>
