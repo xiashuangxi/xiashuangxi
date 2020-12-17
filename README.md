@@ -13,10 +13,10 @@
  * 💫 哲学 
  * 🧠 文学/诗歌
 
-<b>📫 你可以在这里联系我 @ </b>
+<b>📫 你可以在这里联系我 </b>
 
- * [Linkedin](https://www.linkedin.com/in/xiashuangxi/) - 通常星期二或星期五，也可能是其它的时间，但不会先久。
- * [Hotmail](mailto:xiashuangxi@hotmail.com) ✉️ - 通常会在当天进行处理，如果不进入垃圾箱的话。
+ * [Linkedin](https://www.linkedin.com/in/xiashuangxi/) - 通常星期二或星期五，也可能是其它的时间，但不会很久。
+ * [Hotmail](mailto:xiashuangxi@hotmail.com) ✉️ - 通常会在当天进行处理，如果不进入垃圾邮件的话。
 
 <details>
   <summary>📊 <b>统计数据</b></summary>
