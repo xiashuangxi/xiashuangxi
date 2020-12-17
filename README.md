@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Xia Shuangxi github" />
 
-<b>嗨，你好！我是Xia Shuangxi，欢迎来到我的页面。 👋</b>
+<b>嗨，你好！我是 Xia Shuangxi，欢迎来到我的页面。 👋</b>
 <br><br>
 我是一名全职的软件开发人员，同时也是一名艺术爱好者。
 
