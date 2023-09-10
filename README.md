@@ -1,12 +1,13 @@
 <!-- # 嗨，你好！欢迎来到我的页面 👋 -->
 
-<img src="banner.svg" alt="Xia Shuangxi github" />
+<!-- banner.svg -->
+<img src="https://images.unsplash.com/photo-1593526492327-b071f3d5333e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Xia Shuangxi github" />
 
-👋 嗨，你好！我是 Xia Shuangxi，欢迎来到我的页面，我的名词是**他**。我是一名全职的软件开发人员，同时也是一名艺术爱好者。
+👋 嗨，你好！我是 Xia Shuangxi 😁，欢迎来到我的页面，我是一名全职的软件开发人员。
 
-🌱 我主要使用的是 **Java** 进行开发工作。而 **Rust** , **Go** 只是为了协助我更快速的完成工作，**Ada** , **Erlang** 只是为好玩而已。
+🌱 我主要使用的是 **Java** 进行开发工作。同时也会使用 **Rust** 、 **Go** 、**Python** 等协助我更快速的完成工作。有时也会使用一下 **Ada** , **Erlang** 但也只是为好玩而已😬。
 
-<b>📕 我喜欢看的书</b>
+<b>📕 我平时喜欢看的书</b>
 
  * 🌞 社会科学 
  * 👴 历史 
