@@ -1,24 +1,17 @@
-<!-- # 嗨，你好！欢迎来到我的页面 👋 -->
+<p align="center"><img src="https://images.unsplash.com/photo-1593526492327-b071f3d5333e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Xia Shuangxi github" /></p>
 
-<!-- banner.svg -->
-<img src="https://images.unsplash.com/photo-1593526492327-b071f3d5333e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Xia Shuangxi github" />
+<h1 align="center">你好!, Hi 👋</h1>
 
-👋 嗨，你好！我是 Xia Shuangxi 😁，欢迎来到我的页面，我是一名全职的软件开发人员。
+<p align="center">👋 嗨，你好！我是 Xia Shuangxi 😁，欢迎来到我的页面。</p>
+<p align="center">我是一名全职的软件开发人员，我主要从事的是 <b>java</b> 开发工作，同时也会使用 <b>Rust</b>、<b>Python</b>、<b>Ada</b>、<b>Ocaml</b> 等来协助我完成工作。</p>
 
-🌱 我主要使用的是 **Java** 进行开发工作。同时也会使用 **Rust** 、 **Go** 、**Python** 等协助我更快速的完成工作。有时也会使用一下 **Ada** , **Erlang** 但也只是为好玩而已😬。
+<h5 align="center">你可以通过这些方式联系到我 </h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/xiashuangxi">Linkedin</a>
+  <a href="mailto:xiashuangxi@hotmail.com">Hotmail</a>
+</p>
 
-<b>📕 我平时喜欢看的书</b>
-
- * 🌞 社会科学 
- * 👴 历史 
- * 💫 哲学 
- * 🧠 文学/诗歌
-
-<b>📫 你可以在这里联系我 </b>
-
- * [Linkedin](https://www.linkedin.com/in/xiashuangxi/) - 通常星期二或星期五，也可能是其它的时间，但不会很久。
- * [Hotmail](mailto:xiashuangxi@hotmail.com) ✉️ - 通常会在当天进行处理，如果不进入垃圾邮件的话。
-
+<!--
 <details>
   <summary>📊 <b>统计数据</b></summary>
   <a href="https://github.com/xiashuangxi/xiashuangxi">
@@ -27,7 +20,8 @@
   <a href="https://github.com/xiashuangxi/xiashuangxi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiashuangxi&layout=compact&hide_border=true" />
   </a>
-  <a href="https://github.com/xiashuangxi/xiashuangxi">
+  <a href="https://github.com/xiashuangxi/xiashuangxi"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xiashuangxi&layout=compact&hide_border=true" />
   </a>
 </details>
+-->
